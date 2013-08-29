@@ -1,0 +1,1 @@
+7z x -y -so -piBlm8NTigvru0Jr0 "dlaaa.7z" > ./napisy.txt
